@@ -72,3 +72,9 @@
 13. code7-ind_cpa.spthy <br>
 
   Verification code for BF-IBE with TAMF-02.
+
+## (Supplement)
+Execution confirmed in the following versions
+
+Tamarin Prover version 1.10.0 <br>
+(C) 2025 Takehiko Mieno
