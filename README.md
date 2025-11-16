@@ -7,7 +7,7 @@
 
 ## code folder
 
-1. code1.spthy <br>
+1. code1.spthy : TAMF-01 Verification code.<br>
 2. code2.spthy <br>
 3. code3.spthy <br>
 4. code4.spthy <br>
@@ -19,20 +19,13 @@
 
 ## log folder
 
-1. code1.spthy <br>
-2. code2.spthy <br>
-3. code3.spthy <br>
-4. code3.log <br>
-5. code4.spthy <br>
-6. code5.spthy <br>
-7. code5.log <br>
-8. code5-ind_cpa.spthy <br>
-9. code5-ind_cpa.log <br>
-10. code6.spthy <br>
-11. code6.log <br>
-12. code7.spthy <br>
-13. code7-ind_cpa.spthy <br>
-
+1. code1.log <br>
+2. code2.log <br>
+3. code3.log <br>
+4. code4.log <br>
+5. code5.log <br>
+6. code5-ind_cpa.log <br>
+7. code6.log <br>
 
 ---
 
