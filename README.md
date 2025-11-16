@@ -8,14 +8,14 @@
 ## code folder
 
 1. code1.spthy : TAMF-01 Verification code.<br>
-2. code2.spthy <br>
-3. code3.spthy <br>
-4. code4.spthy <br>
-5. code5.spthy <br>
-6. code5-ind_cpa.spthy <br>
-7. code6.spthy <br>
-8. code7.spthy <br>
-9. code7-ind_cpa.spthy <br>
+2. code2.spthy : TAMF-02 Verification code.<br>
+3. code3.spthy : TAMF-03 Verification code.<br>
+4. code4.spthy : TAMF-04 Verification code.<br>
+5. code5.spthy : Verification code for IBE with TAMF-01.<br>
+6. code5-ind_cpa.spthy : Verification code for IBE with TAMF-02.<br>
+7. code6.spthy : Verification code for IBE-CHK with TAMF-03 & TAMF-04.<br>
+8. code7.spthy : Verification code for BF-IBE.<br>
+9. code7-ind_cpa.spthy : Verification code for BF-IBE with TAMF-02.<br>
 
 ## log folder
 
@@ -29,9 +29,7 @@
 
 ---
 
-1. code1.spthy <br>
 
-  TAMF-01 Verification code. <br>
     
 2. code2.spthy <br>
 
